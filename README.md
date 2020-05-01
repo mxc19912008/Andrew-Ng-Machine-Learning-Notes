@@ -14,3 +14,7 @@ Probabilistic interpretat, Locally weighted linear regression , Classification a
  * [10. PCA](http://cs229.stanford.edu/notes/cs229-notes10.pdf)
  * [11. Independent Component Analysis(ICA)](http://cs229.stanford.edu/notes/cs229-notes11.pdf)
  * [12. Reinforcement Learning](http://cs229.stanford.edu/notes/cs229-notes12.pdf)
+ 
+ * [Tree based ML algorithms](https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/)
+ * [Deep Learning Notes](https://github.com/mbadry1/DeepLearning.ai-Summary)
+ 
