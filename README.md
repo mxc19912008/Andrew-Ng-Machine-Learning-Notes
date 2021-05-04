@@ -4,7 +4,7 @@ The notes of Andrew Ng Machine Learning in Stanford University
 Probabilistic interpretat, Locally weighted linear regression , Classification and logistic regression,  The perceptron learning algorith, Generalized Linear Models, softmax regression](https://github.com/mxc19912008/Andrew-Ng-Machine-Learning-Notes/blob/master/cs229-notes1.pdf)
  * [2. Generative Learning algorithms, Gaussian discriminant analysis, Naive Bayes, Laplace smoothing, Multinomial event model](https://github.com/mxc19912008/Andrew-Ng-Machine-Learning-Notes/blob/master/cs229-notes2.pdf)
  * [3. SVM, Lagrange duality, Kernel, SMO](https://github.com/mxc19912008/Andrew-Ng-Machine-Learning-Notes/blob/master/cs229-notes3.pdf)
- * [4. Bias-Variance trade-off, Learning Theroy](https://github.com/mxc19912008/Andrew-Ng-Machine-Learning-Notes/blob/master/cs229-notes4.pdf)
+ * [4. Bias-Variance trade-off, Learning Theory](https://github.com/mxc19912008/Andrew-Ng-Machine-Learning-Notes/blob/master/cs229-notes4.pdf)
  * [5. Cross-validation, Feature Selection, Bayesion statistics and regularization](https://github.com/mxc19912008/Andrew-Ng-Machine-Learning-Notes/blob/master/cs229-notes5.pdf)
  * [6. Online Learning, Online Learning with Perceptron](https://github.com/mxc19912008/Andrew-Ng-Machine-Learning-Notes/blob/master/cs229-notes6.pdf)
  * [7a. K-Means](https://github.com/mxc19912008/Andrew-Ng-Machine-Learning-Notes/blob/master/cs229-notes7a.pdf)
